@@ -1,0 +1,12 @@
+[
+  {
+    "TenantId": "54b708be-a187-41a9-bb08-c8f8d95d5e2f",
+    "SourceSystem": "OpsManager",
+    "TimeGenerated": "2025-02-24T14:25:02.2057707Z",
+    "Source": "Microsoft-Windows-Sysmon",
+    "EventLog": "Microsoft-Windows-Sysmon/Operational",
+    "Computer": "dc1-mon",
+    "EventLevel": 4,
+    "EventLevelName": "Information",
+    "ParameterXml": "<Param>-</Param><Param>2025-02-24 14:25:02.199</Param><Param>{3d7a6f6f-813e-67bc-9a01-000000000300}</Param><Param>1128</Param><Param>C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe</Param><Param>7.7.2.1</Param><Param>-</Param><Param>Microsoft Windows Powershell</Param><Param>-</Param><Param>-</Param><Param>powershell.exe -NoProfile -Command \"Write-Output `\"Test^Obfuscation^`%`\"\"</Param><Param>C:\\Users\\exampleuser\\</Param><Param>NT AUTHORITY\\SYSTEM</Param><Param>{3d7a6f6f-804b-67bc-e703-000000000000}</Param><Param>0x3e7</Param><Param>0</Param><Param>System</Param><Param>MD5=19A0B629736428651345DB7AEBB99059,SHA256=C1C3B80959E225B8A8ADA7C8B1C4BFF6587887294318EB376A54B02B06F97BA8,IMPHASH=27DE371E1DAE125BC04CC09552C72D87</Param><Param>{00000000-0000-0000-0000-000000000000}</Param><Param>712</Param><Param>-</Param><Param>-</Param><Param>-</Param>",
+    "EventData": "<DataItem Type=\"System.XmlData\" time=\"2025-02-24T14:25:02.205770700Z\" sourceHealthServiceId=\"1f1a93bd-0db8-40a2-87fb-7c7c5393226e\"><EventData xmlns=\"http://schemas.microsoft.com/win/2004/08/events/event\"><Data Name=\"RuleName\">-</Data><Data Name=\"UtcTime\">2025-02-24 14:25:02.199</Data><Data Name=\"ProcessGuid\">{3d7a6f6f-813e-67bc-9a01-000000000300}</Data><Data Name=\"ProcessId\">1128</Data><Data Name=\"Image\">C:\\
